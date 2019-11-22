@@ -102,8 +102,6 @@ const Header = ({location}: {location: Location}) => (
             display: 'flex',
             flexDirection: 'row',
             alignItems: 'stretch',
-            overflowX: 'auto',
-            overflowY: 'hidden',
             WebkitOverflowScrolling: 'touch',
             height: '100%',
 
